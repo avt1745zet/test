@@ -1,7 +1,7 @@
 ﻿body {
     font-family: 'Noto Sans TC', sans-serif;
 }
-
+/*
 body {
     background-image: url(../img/rosie-fraser-187327-unsplash.jpg);
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@ body {
     background-size: cover;
     z-index: -999;
 }
-
+*/
 .navbar .active {
     border-bottom: 1px solid white;
 }
